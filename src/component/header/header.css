@@ -12,3 +12,69 @@
 a{
   text-decoration: none;
 }
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 483px;
+  padding-top: 30px;
+  background-color: #2F2F2F;
+}
+
+.h14{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 17px;
+  cursor: pointer;
+  color: rgb(rgb(206, 0, 161), rgb(255, 255, 255), blue);
+}
+
+.h14:hover{
+  color: #FFFFFF6B;
+  transition: 0.3s;
+}
+
+.mini11{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.a12{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+
+.a12:hover{
+  color: #FFFFFF6B;
+  transition: 0.3s;
+}
+
+.b64{
+  width: 141px;
+  height: 49px;
+  color: white;
+  background-color: #F59B00;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 90px;
+  cursor: pointer;
+}
+
+.b64:hover{
+  background-color: #FFA733;
+  transition: 0.3s;
+}
+
