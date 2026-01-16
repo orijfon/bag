@@ -12,3 +12,76 @@
 a{
   text-decoration: none;
 }
+
+.s44{
+  background-color: #2F2F2F;
+  background-image: url('../section1/img/naqw.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 67px;
+}
+
+.p76{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #F59B00;
+  font-family: 'Poppins', sans-serif;
+}
+
+.p75{
+  width: 411px;
+  font-weight: 700;
+  font-size: 61px;
+  line-height: 72px;
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 10px;
+}
+
+.p74{
+  margin-top: 25px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  width: 432px;
+}
+
+.mini88{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+  margin-top: 35px;
+}
+
+.b087{
+  width: 140px;
+  height: 49px;
+  background-color: #F59B00;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  color: white;
+}
+
+.b087:hover{
+  background-color: #925800;
+  transition: 0.3s;
+}
+
+
+.strelka{
+  margin-top: 45px;
+}
